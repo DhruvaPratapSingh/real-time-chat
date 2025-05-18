@@ -136,5 +136,12 @@ backend/
 ```
 ## 📸 Screenshots
 
+| Page | Screenshot |
+|------|-----------|
+| *Login Page* |![Login](https://github.com/user-attachments/assets/c01b1db2-a8e7-4eec-b501-022a9ed58747)|
+| *Registration | ![registration](https://github.com/user-attachments/assets/be2829cd-79f1-4f70-ba1f-b38b52e96750)|
+| *Chat Interface* | ![chatting ](https://github.com/user-attachments/assets/1930e146-605d-47f8-a5a3-a0415bc3dfa5)|
+| *Profile Page* | ![profile](https://github.com/user-attachments/assets/4a3d7e91-75f7-497c-a2bd-55d9edd634ac)|
+| *Theme Setting* | ![theme setting](https://github.com/user-attachments/assets/6ce88c52-7f30-408b-98ae-0f6cabb7385e)|
 
 
